@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Dock+App-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 ObjectDock Free Installer** — ObjectDock is a Windows animated dock application by Stardock that provides a macOS-style application dock with magnification effects, stackable docklets for widgets, and support for custom icons and themes — transforming the Windows desktop experience.. Works without internet access, no account required. Full offline installation.
+**💻 ObjectDock Free Installer** — ObjectDock is a Windows animated dock application by Stardock that provides a macOS-style application dock with magnification effects, stackable docklets for widgets, and support for custom icons and themes — transforming the Windows desktop experience. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -121,7 +121,7 @@ ObjectDock is a Windows animated dock application by Stardock that provides a ma
 
 ---
 
-**ObjectDock Free Installer** — ObjectDock is a Windows animated dock application by Stardock that provides a macOS-style application dock with magnification effects, stackable docklets for widgets, and support for custom icons and themes — transforming the Windows desktop experience.. Install without internet connection today!
+**ObjectDock Free Installer** — ObjectDock is a Windows animated dock application by Stardock that provides a macOS-style application dock with magnification effects, stackable docklets for widgets, and support for custom icons and themes — transforming the Windows desktop experience. Install without internet connection today!
 
 <div align="center">
 
